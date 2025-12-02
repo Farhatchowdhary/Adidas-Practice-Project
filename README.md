@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Adidas Practice Project
 Project Overview
 
@@ -76,3 +77,6 @@ Project Structure
 Author
 
 Your Name – Front-end Web Developer (Farhat Chowdhary)
+=======
+# Adidas-Practice-Project
+>>>>>>> c3064929afaa5537122e639b8c5e1aa1f2d121f0
