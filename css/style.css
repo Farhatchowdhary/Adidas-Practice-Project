@@ -368,7 +368,15 @@ body {
 }
 
 .popular-brand {
-  margin-left: 155px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  margin-top: -6px;
 }
 
 .three-first-brands {
