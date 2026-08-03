@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Adidas Practice Project
 Project Overview
 
