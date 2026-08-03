@@ -67,16 +67,17 @@ Click the login icon to open the login modal, enter an email, and click Continue
 Project Structure
 /project-folder
 │
-├── index.html           # Main HTML file
+├── index.html # Main HTML file
 ├── css/
-│   └── style.css        # Styling for the project
+│ └── style.css # Styling for the project
 ├── js/
-│   └── index.js         # JavaScript for interactive functionality
-└── assets/              # Optional: images, icons, logos
+│ └── index.js # JavaScript for interactive functionality
+└── assets/ # Optional: images, icons, logos
 
 Author
 
-Your Name – Front-end Web Developer (Farhat Chowdhary)
-=======
+# Your Name – Front-end Web Developer (Farhat Chowdhary)
+
 # Adidas-Practice-Project
->>>>>>> c3064929afaa5537122e639b8c5e1aa1f2d121f0
+
+> > > > > > > c3064929afaa5537122e639b8c5e1aa1f2d121f0
